@@ -68,5 +68,3 @@ l_LoanAmount=10029
 Calculate_TotalLoanAmount(l_CreditScore,l_LoanAmount)
 """
   
-#reject=chk_cust_qualify(300,109)
-#print(reject)
